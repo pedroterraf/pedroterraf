@@ -2,28 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pedroterraf)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/pedroterraf/Countries-PI/tree/main/PI%20-%20Pedro%20Terraf%2019-6-2023)
-
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
 ## 📝 Blogs
 
 - Personal website and blog: (https://github.com/pedroterraf)
@@ -53,9 +31,9 @@ me.say_hi()
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/pedroterraf/Countries-PI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroterraf&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/305e2b1d-ee2e-4044-a8fc-97de05e32070" alt="DA-RNN" />
 </a>
 
 <a href="https://github.com/pedroterraf/RickAndMorty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroterraf&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/de29f476-2960-4185-8027-b64881af5250" alt="crnn-pytorch" />
 </a>

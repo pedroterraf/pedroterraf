@@ -33,6 +33,6 @@
   <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/ef6c75df-9148-4ad8-b992-2eb024f376b9" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/pedroterraf/RickAndMorty">
-  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/de29f476-2960-4185-8027-b64881af5250" alt="crnn-pytorch" />
+<a href="https://github.com/pedroterraf/Marvel">
+  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/b2e91681-8342-4675-bde6-3308bf9d58dc" alt="crnn-pytorch" />
 </a>

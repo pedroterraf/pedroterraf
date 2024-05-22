@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/pedroterraf/Countries-PI/tree/main/PI%20-%20Pedro%20Terraf%2019-6-2023)
 ## 📝 Blogs
 
-- Personal website and blog: (https://github.com/pedroterraf)
+- Personal website and blog: (https://portafolio-one-sigma.vercel.app/)
 
 ## 🔧 Technologies & Tools
 

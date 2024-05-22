@@ -27,11 +27,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pedroterraf&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Uploading Indian_Co.png…]()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/pedroterraf/Countries-PI">
-  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/305e2b1d-ee2e-4044-a8fc-97de05e32070" alt="DA-RNN" />
+<a href="https://github.com/indianandco/Indian_Co">
+  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/ef6c75df-9148-4ad8-b992-2eb024f376b9" alt="DA-RNN" />
 </a>
 
 <a href="https://github.com/pedroterraf/RickAndMorty">

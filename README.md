@@ -27,8 +27,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pedroterraf&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Uploading Indian_Co.png…]()
-
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/indianandco/Indian_Co">

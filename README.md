@@ -36,3 +36,11 @@
 <a href="https://github.com/pedroterraf/Marvel">
   <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/b2e91681-8342-4675-bde6-3308bf9d58dc" alt="crnn-pytorch" />
 </a>
+
+<a href="https://github.com/pedroterraf/Countries-PI">
+  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/c4e5b634-1046-4730-aa19-31401f359dc5" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/pedroterraf/portafolio">
+  <img align="center" src="https://github.com/pedroterraf/pedroterraf/assets/106350031/1b96f55d-5723-4c73-8645-91e14f81fa34" alt="crnn-pytorch" />
+</a>

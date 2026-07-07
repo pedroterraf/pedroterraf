@@ -89,16 +89,7 @@ All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simples
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedroterraf&show_icons=true&hide_border=true&bg_color=0D0F21&title_color=8B5CF6&icon_color=22D3EE&text_color=A3A9C9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroterraf&layout=compact&hide_border=true&bg_color=0D0F21&title_color=8B5CF6&text_color=A3A9C9&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroterraf&hide_border=true&background=0D0F21&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=A3A9C9&currStreakNum=EEF1FF&sideNums=EEF1FF&dates=6F7699" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroterraf&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 </div>
 
 ---

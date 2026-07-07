@@ -19,7 +19,7 @@
 ![Location](https://img.shields.io/badge/C%C3%B3rdoba%2C%20Argentina-1f2937?style=for-the-badge&logo=googlemaps&logoColor=22d3ee)
 ![Open to work](https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20work-22d3ee?style=for-the-badge&labelColor=22d3ee&color=060713)
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=pedroterraf&left_text=PROFILE%20VIEWS&left_color=1f2937&right_color=8b5cf6)
+![Profile views](https://komarev.com/ghpvc/?username=pedroterraf&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS&base=690)
 
 </div>
 

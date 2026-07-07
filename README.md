@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=Pedro%20Terraf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Web%20%26%20Mobile&descSize=20&descAlignY=58" width="100%" alt="Pedro Terraf" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=140&section=header" width="100%" alt="" />
 </div>
+
+<h1 align="center">Pedro Terraf</h1>
+<h3 align="center">Full Stack Engineer · Web & Mobile</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -34,30 +37,15 @@ Full Stack Engineer with **3+ years building and shipping production web and mob
 
 ---
 
-## 🚀 Featured project — Universo Jiménez
+## 🚀 Projects
 
-> **End-to-end ticketing & access-control platform** · Core engineer · In production
-
-A full commercial, **multi-tenant** ticketing platform (not a simple ticket seller) that powers both the company's own shows and third-party organizers (white-label): a **6-app ecosystem** — web storefront, admin backoffice, mobile app (iOS/Android), Android access-control app, desktop POS and a NestJS API — handling high-demand on-sales, payments, invoicing and door access control.
+All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simplestate, SeguroMovil…) live on my portfolio, with details, metrics and live links.
 
 <div align="center">
 
-| ⚡ ~800 req/s | 🎟️ 16,000+ | 🧩 6 apps |
-|:---:|:---:|:---:|
-| On-sale peak (~50% capacity) | Tickets in a single event | Web · BO · Mobile · Controller · POS · API |
+[![View my portfolio](https://img.shields.io/badge/%F0%9F%91%89%20View%20my%20projects%20on%20my%20portfolio-8B5CF6?style=for-the-badge)](https://pedro-terraf-sigma.vercel.app/)
 
 </div>
-
-- 🧠 Redis-backed **virtual waiting room** with distributed locks, JWT access passes and a fail-closed circuit breaker.
-- 📨 **BullMQ** queues for ticket generation & stock; multi-provider payment orchestration + e-invoicing (ARCA/AFIP).
-- 📴 Android controller that validates and **"burns" tickets fully offline** and reconciles once back online.
-- 🔐 React Native/Expo app with **anti-fraud rotating TOTP QR**; Electron desktop POS with native Payway/VPI terminals.
-
-[![Live](https://img.shields.io/badge/Live-universotickets.online-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://universotickets.online/)
-[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ar/app/universo-tickets/id6773460410)
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.universo.tickets.app)
-
-**Other projects:** Livestock Lift (cattle-transport marketplace · monorepo) · MBA (university e-learning · app + backoffice + API) · Ubuntu (judicial-sector web + Python scraper) · Simplestate (real-estate investing) · SeguroMovil for Movistar (insurtech). → **[See full case studies on my portfolio](https://pedro-terraf-sigma.vercel.app/)**
 
 ---
 

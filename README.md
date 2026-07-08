@@ -89,7 +89,7 @@ All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simples
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroterraf&hide_border=true&background=0D0F21&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=A3A9C9&currStreakNum=EEF1FF&sideNums=EEF1FF&dates=6F7699" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=pedroterraf&hide_border=true&background=0D0F21&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=A3A9C9&currStreakNum=EEF1FF&sideNums=EEF1FF&dates=6F7699" alt="GitHub streak" />
 </div>
 
 ---

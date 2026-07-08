@@ -86,10 +86,28 @@ All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simples
 
 ---
 
-## 📊 GitHub stats
+## 🏆 Highlights
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
+
+![Experience](https://img.shields.io/badge/3%2B%20years-shipping%20production-8B5CF6?style=for-the-badge)
+![Universo](https://img.shields.io/badge/Universo-6--app%20ecosystem-22D3EE?style=for-the-badge)
+![Scale](https://img.shields.io/badge/Peak-~800%20req%2Fs%20on--sale-8B5CF6?style=for-the-badge)
+![Volume](https://img.shields.io/badge/One%20event-16%2C000%2B%20tickets%20sold-22D3EE?style=for-the-badge)
+![Live](https://img.shields.io/badge/Live-App%20Store%20%26%20Google%20Play-8B5CF6?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
+
+<img src="./profile/activity-graph.svg" alt="Contribution activity (last year)" width="100%" />
+
 </div>
 
 ---

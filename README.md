@@ -27,23 +27,24 @@
 
 ## 👨‍💻 About me
 
-Full Stack Engineer with **3+ years building and shipping production web and mobile products** across ticketing, real-estate, insurance, healthtech and logistics marketplaces.
+Full Stack Engineer with **3+ years building and shipping production web and mobile products** across ticketing/events, fintech and insurance (my strongest area), healthtech, ecommerce and logistics marketplaces.
 
 - 🚀 Strong on the frontend (**React, Next.js, React Native/Expo**) with deep backend and cloud experience (**NestJS, PostgreSQL/Prisma, Redis, AWS**).
 - 🧩 I own features **end-to-end** — from data model and APIs to UI and App Store / Google Play releases.
 - 🎯 Focused on **scalability, reliability and clean, maintainable code**.
 - 📍 Based in **Córdoba, Argentina** (UTC−3) · Open to remote & relocation.
-- 🗣️ Spanish (native) · English (B1, studying at Cambridge).
+- 🗣️ Spanish (native) · English (B1 → B2, Cambridge intensive in progress).
 
 ---
 
 ## 🚀 Projects
 
-All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simplestate, SeguroMovil…) live on my portfolio, with details, metrics and live links.
+All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simplestate, SeguroMovil…) live on my portfolio, with screenshots, metrics and live links.
 
 <div align="center">
 
 [![View my portfolio](https://img.shields.io/badge/%F0%9F%91%89%20View%20my%20projects%20on%20my%20portfolio-8B5CF6?style=for-the-badge)](https://pedro-terraf-sigma.vercel.app/)
+[![Recommendations](https://img.shields.io/badge/%E2%AD%90%20Recommendations%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroterraf/details/recommendations/)
 
 </div>
 
@@ -92,7 +93,8 @@ All my projects and case studies (Universo, Livestock Lift, MBA, Ubuntu, Simples
 
 ![Experience](https://img.shields.io/badge/3%2B%20years-shipping%20production-8B5CF6?style=for-the-badge)
 ![Universo](https://img.shields.io/badge/Universo-6--app%20ecosystem-22D3EE?style=for-the-badge)
-![Scale](https://img.shields.io/badge/Peak-~800%20req%2Fs%20on--sale-8B5CF6?style=for-the-badge)
+![Scale](https://img.shields.io/badge/Peak-~3%2C000%20req%2Fmin%20on--sale-8B5CF6?style=for-the-badge)
+![Volume](https://img.shields.io/badge/First%20hour-8%2C000%2B%20tickets%20sold-22D3EE?style=for-the-badge)
 ![Volume](https://img.shields.io/badge/One%20event-16%2C000%2B%20tickets%20sold-22D3EE?style=for-the-badge)
 ![Live](https://img.shields.io/badge/Live-App%20Store%20%26%20Google%20Play-8B5CF6?style=for-the-badge)
 
